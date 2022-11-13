@@ -1,4 +1,4 @@
-# Book Review
+# mmemo blog
 
 たぶん技術的なメモを書くブログです。
 
